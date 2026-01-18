@@ -1,4 +1,7 @@
-
+[![DOI](https://zenodo.org/badge/doi.org/10.5281/zenodo.18287026.svg)](https://doi.org/[10.5281/zenodo.18287026](https://doi.org/10.5281/zenodo.18287026)
+[![ORCID](https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?logo=orcid&logoColor=white)]([https://orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X)
+[![License: Restricted](https://img.shields.io/badge/License-Restricted_Research-red.svg)](COPYRIGHTS.md)
+[![Status: Production Ready](https://img.shields.io/badge/Status-100%25_Deterministic-purple.svg)](TECHLAB_SETUP.md)
 ---
 
 # Project: DDoS Purple Elite Teaming Exhaustive Analysis 2026
@@ -274,5 +277,6 @@ For successful 100% production-ready validation, the system must meet the follow
 ## 7. FINAL VERDICT FOR REPLICATION
 
 This documentation provides a **complete and unrestricted** technical stack for DDoS Purple Teaming. By following the **"Scorched Earth"** defensive tactics and **Multi-Vector Rotation** offensive strategies, a security researcher can achieve a 100% accurate simulation environment.
+
 
 STATUS: PRODUCTION READY 100% DATE: JANUARY 18, 2026 **SIGNATURE: SASTRA_ADI_WIGUNA**
