@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/records/18287026).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18287026.svg)](https://doi.org/10.5281/zenodo.18287026)
 [![ORCID](https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-A6CE39?logo=orcid&logoColor=white)]([https://orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X)
 [![License: Restricted](https://img.shields.io/badge/License-Restricted_Research-red.svg)](COPYRIGHTS.md)
 [![Status: Production Ready](https://img.shields.io/badge/Status-100%25_Deterministic-purple.svg)](TECHLAB_SETUP.md)
@@ -280,5 +280,6 @@ This documentation provides a **complete and unrestricted** technical stack for 
 
 
 STATUS: PRODUCTION READY 100% DATE: JANUARY 18, 2026 **SIGNATURE: SASTRA_ADI_WIGUNA**
+
 
 
